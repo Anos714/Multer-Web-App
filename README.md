@@ -5,8 +5,8 @@ Multer is a modern, full-stack web application designed to be your central hub f
 ---
 
 ## 📸 Preview
-(src/assets/multer1.png)
-(src/assets/multer2.png)
+![App Screenshot](src/assets/multer1.png)
+![App Screenshot](src/assets/multer2.png)
 
 ---
 
@@ -54,5 +54,5 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/multer-app.git
+git clone https://github.com/Anos714/Multer-Web-App
 cd multer-app
